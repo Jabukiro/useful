@@ -1,0 +1,3 @@
+.*
+NotToBeDeployed.txt
+deploy.sh
